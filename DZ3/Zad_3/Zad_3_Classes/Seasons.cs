@@ -60,7 +60,6 @@ namespace Zad_3_Classes
 
             return $"{ReturningText}";
         }
-
-
     }
 }
+

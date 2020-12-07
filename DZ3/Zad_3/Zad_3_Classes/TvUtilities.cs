@@ -14,9 +14,6 @@ namespace Zad_3_Classes
             return random.NextDouble() * 10;
         }
 
-
-
-
         public static void Sort(Episode[] episodes)
         {
             int max;
@@ -69,3 +66,4 @@ namespace Zad_3_Classes
         }
     }
 }
+
